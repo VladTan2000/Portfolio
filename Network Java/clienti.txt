@@ -1,0 +1,3 @@
+{"varsta":1,"prenume":"d","id":1,"nume":"d"}
+{"varsta":2,"prenume":"a","id":2,"nume":"a"}
+{"varsta":22,"prenume":"Vlad","id":3,"nume":"Stefan"}

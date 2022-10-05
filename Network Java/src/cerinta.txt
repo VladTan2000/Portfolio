@@ -1,0 +1,6 @@
+Agent pentru controlul unor aplicatii de la distanta:
+
+Server-ul are configurata o lista de aplicatii, pentru fiecare aplicatie putand executa o serie de operatii, precum start, stop, restart, status, fiecare operatie avand asociata o comanda pe care sever-ul o va rula cand este solicitata;
+Clientul se conecteaza la server si permite interogarea listei de aplicatii, precum si a comenzilor ce pot fi executate pentru fiecare aplicatie in parte;
+Clientul permite executia comenzilor pentru aplicatiile controlate, afisand rezultatul executiei acestora de catre server;
+De exemplu, controlul unui server de baze de date.
